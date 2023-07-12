@@ -12,4 +12,5 @@ public class SubmissionDTO {
     private String salesPersonName;
     private String technology;
     private String vendorName;
+
 }
